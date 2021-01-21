@@ -28,7 +28,7 @@
     "has-binary": "0.1.7"
   },
   "devDependencies": {
-    "socket.io": "1.4.8",
+    "socket.io": "2.4.0",
     "socket.io-client": "1.4.8",
     "mocha": "*",
     "chai": "^3.5.0",
